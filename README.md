@@ -2,7 +2,7 @@
 
 A modern, dark-themed desktop application to organize and play your favorite `.swf` Flash games. Built with Python and PyQt6.
 
-🇹🇷 *[Türkçe okumak için tıklayın (Read in Turkish)](README-TR.md)*
+*[Türkçe okumak için tıklayın (Read in Turkish)](README-TR.md)*
 
 ## Features
 
